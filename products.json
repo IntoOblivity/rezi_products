@@ -1,8 +1,10 @@
-[
-  {
-    "name": "DT4M",
-    "code": "DT41SPMWT30"
-  },
+{
+  "version": "1.0.0",
+  "products": [
+    {
+      "name": "DT4M",
+      "code": "DT41SPMWT30"
+    },
   {
     "name": "DT4 (Aan/uit)",
     "code": "DT40WT20"
@@ -43,8 +45,10 @@
     "name": "HCC100",
     "code": "HCC100M2022"
   },
-  {
-    "name": "HCE80",
-    "code": "HCE80-NL"
-  }
-]
+    {
+      "name": "HCE80",
+      "code": "HCE80-NL"
+    }
+  ]
+}
+
